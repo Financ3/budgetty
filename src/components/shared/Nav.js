@@ -9,7 +9,7 @@ class Nav extends Component {
 
     return (
       <div className="top">
-        <div className="title">budgetty</div>
+        <div className="title">Budgetty</div>
         <div className="user-info">
           {firstName} {lastName}
           <img src="./peterquill.jpg" alt="" className='photo' />
